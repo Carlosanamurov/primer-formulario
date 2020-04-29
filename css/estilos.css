@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.con{
+    margin: 0 auto;
+    width: 470px;
+    padding: 50px;
+    
+}
+.caja{
+    width: 300px;
+    height: 30px;
+    border-radius: 5px;
+    padding-left: 12px;
+}
